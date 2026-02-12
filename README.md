@@ -19,4 +19,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DvRafaella&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/DvRafaella/DvRafaella/output/snake.svg" alt="Snake animation" />

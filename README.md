@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Hoje trabalho com Node.js<br>🌱 Atualmente estou aprimorando meus conhecimentos em Node.js e aprendendo Java<br>🌐 Possuo um pouco de experiência com Front-end
+🌱 Atualmente estou aprimorando meus conhecimentos em Front-end e aprendendo Java<br>
 
 
 ## 🌐 Links Sociais:

@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌱 Atualmente estou aprimorando meus conhecimentos em Front-end e aprendendo Java<br>
+🌱 Atualmente estou aprimorando meus conhecimentos em tecnologias Full-Stack<br>
 
 
 ## 🌐 Links Sociais:
